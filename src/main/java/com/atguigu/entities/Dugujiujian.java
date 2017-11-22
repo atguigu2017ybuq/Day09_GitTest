@@ -3,7 +3,7 @@ package com.atguigu.entities;
 public class Dugujiujian {
 	
 	public static void main(String[] args) {
-		System.out.println("我是独孤九剑代言人，广告商可以与我联系！");
+		System.out.println("鎴戞槸浠ょ嫄鍐诧紝鎴戝杺鑷繁琚嬬洂锛屽晩锛佸ソ鍜革紒");
 	}
 
 }
